@@ -1,0 +1,22 @@
+{
+    "editor.wordWrapColumn": 100,
+    "line-length-checker.lineLength": 100,
+    "line-length-checker.blacklist": [
+        "**/*.md"
+    ],
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/Thumbs.db": false,
+        ".gitignore": false,
+        ".markdownlint.*": false,
+        "favicon*": false,
+        ".vscrof": false,
+        ".vscode": true,
+        ".git": true
+    },
+    "explorerExclude.backup": {}
+}
