@@ -21,7 +21,7 @@ As of winter 2022/2023, I'm working on these Rust crates:
 - patterns on handling data in `no_std` (embedded-friendly) Rust (<a
   href="https://github.com/peter-kehl/no_std_data">no_std_data</a><!--[peter-kehl/no_std_data](https://github.com/no_std_data)-->),
 - cooperative allocation - only for pure safe applications (<a
-  href="https://github.com/coop-rs">coop-rs/coop</a><!--[coop-rs/coop](https://github.com/coop-rs)-->).
+  href="https://github.com/coop-rs">coop-rs/coop</a><!--[coop-rs/coop](https://github.com/coop-rs)-->). Starting in December 2022.
 
 ## Presentations
 
