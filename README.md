@@ -10,8 +10,8 @@ community of Rustaceans.
 
 ## Current projects
 
-As of winter 2022/2023, I'm working on these Rust crates:
-
+- <a href="https://github.com/scale-rs/">scale-rs</a>: libraries for productivity and ergonomics
+- on hold:
 - smart slices (<a href="https://github.com/ranging-rs/slicing-rs">ranging-rs/slicing-rs</a><!--
   [ranging-rs/slicing-rs](https://github.com/ranging-rs/slicing-rs))-->),
 - smart ranges (<a href="https://github.com/ranging-rs/ranging-rs">ranging-rs/ranging-rs</a><!--
@@ -21,7 +21,8 @@ As of winter 2022/2023, I'm working on these Rust crates:
 - patterns on handling data in `no_std` (embedded-friendly) Rust (<a
   href="https://github.com/peter-kehl/no_std_data">no_std_data</a><!--[peter-kehl/no_std_data](https://github.com/no_std_data)-->),
 - cooperative allocation - only for pure safe applications (<a
-  href="https://github.com/coop-rs">coop-rs/coop</a><!--[coop-rs/coop](https://github.com/coop-rs)-->). Starting in December 2022.
+  href="https://github.com/coop-rs">coop-rs/coop</a><!--[coop-rs/coop](https://github.com/coop-rs)-->).
+  Starting in December 2022.
 
 ## Presentations
 
@@ -38,3 +39,7 @@ As of winter 2022/2023, I'm working on these Rust crates:
 ## Contributing
 
 I'm open to long-term contracting and permanent positions. Extra points if it's open source.
+
+## Contact
+E-mail & LinkedIn: see left side on GitHub; <a rel="me"
+href="https://hachyderm.io/@peter_kehl">Mastodon</a>.
