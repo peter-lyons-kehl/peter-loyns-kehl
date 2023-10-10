@@ -40,6 +40,3 @@ community of Rustaceans.
 
 I'm open to long-term contracting and permanent positions. Extra points if it's open source.
 
-## Contact
-E-mail & LinkedIn: see left side on GitHub; <a rel="me"
-href="https://hachyderm.io/@peter_kehl">Mastodon</a>.
