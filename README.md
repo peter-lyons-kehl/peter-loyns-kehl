@@ -19,22 +19,22 @@ community of Rustaceans.
 - heap and heapless functionality (<a
   href="https://github.com/ranging-rs/heappie">ranging-rs/heappie</a><!--[ranging-rs/heappie](https://github.com/ranging-rs/heappie)-->),
 - patterns on handling data in `no_std` (embedded-friendly) Rust (<a
-  href="https://github.com/peter-kehl/no_std_data">no_std_data</a><!--[peter-kehl/no_std_data](https://github.com/no_std_data)-->),
+  href="https://github.com/peter-lyons-kehl/no_std_data">no_std_data</a><!--[peter-lyons-kehl/no_std_data](https://github.com/no_std_data)-->),
 - cooperative allocation - only for pure safe applications (<a
   href="https://github.com/coop-rs">coop-rs/coop</a><!--[coop-rs/coop](https://github.com/coop-rs)-->).
   Starting in December 2022.
 
 ## Presentations
 
-- `no_std` libraries in Rust [no_std_libs](https://peter-kehl.github.io/no_std_libs),
+- `no_std` libraries in Rust [no_std_libs](https://peter-lyons-kehl.github.io/no_std_libs),
 - Present Markdown with Reveal.js (on GitHub Pages)
-  [present_markdown_reveal](https://peter-kehl.github.io/present_markdown_reveal.js/),
+  [present_markdown_reveal](https://peter-lyons-kehl.github.io/present_markdown_reveal.js/),
 - `no_std` RNA slice patterns - a long-term set of 18 presentations:
-  [no_std_rna_slice_patterns_presentation](https://github.com/peter-kehl/no_std_rna_slice_patterns_presentation),
+  [no_std_rna_slice_patterns_presentation](https://github.com/peter-lyons-kehl/no_std_rna_slice_patterns_presentation),
   which I'll integrate into its related project <a
-  href="https://github.com/peter-kehl/no_std_data">no_std_data</a><!--[no_std_data](https://github.com/peter-kehl/no_std_data)-->.
-<!-- [Why declare incompatible `features` in Rust libraries?](https://peter-kehl.github.io/rust_incompatible_features) -->
-<!-- https://peter-kehl.github.io/no_std_data/ -->
+  href="https://github.com/peter-lyons-kehl/no_std_data">no_std_data</a><!--[no_std_data](https://github.com/peter-lyons-kehl/no_std_data)-->.
+<!-- [Why declare incompatible `features` in Rust libraries?](https://peter-lyons-kehl.github.io/rust_incompatible_features) -->
+<!-- https://peter-lyons-kehl.github.io/no_std_data/ -->
 
 ## Contributing
 
