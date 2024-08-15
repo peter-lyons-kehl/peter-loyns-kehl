@@ -4,9 +4,9 @@
 
 ## Why Rust
 
-While I've worked in several programming languages, but Rust. It makes memory and concurrency safe.
+While I've worked in several programming languages, I prefer Rust. It makes memory and concurrency safe.
 It is explicit and any side effects are controlled. Types are pretty good. Also, I love the
-community of Rustaceans.
+community.
 
 ## Current projects
 
